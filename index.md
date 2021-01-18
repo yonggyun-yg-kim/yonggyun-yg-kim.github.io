@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hi, I'm Yonggyun Kim.
+Hi, I'm Yonggyun  Kim.
 
 [Research](./Research.html).
 
