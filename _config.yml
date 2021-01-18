@@ -4,5 +4,3 @@ description: YG's webpage
 # show_downloads: false
 # google_analytics:
 theme: jekyll-theme-minimal
-
- git config --global user.email "yonggyun.yg.kim@gmail.com"
