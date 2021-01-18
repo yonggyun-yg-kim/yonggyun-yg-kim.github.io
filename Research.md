@@ -4,6 +4,6 @@ layout: default
 
 ## Research
 
-_yady_ 
+_yady_
 
 [back](./)
