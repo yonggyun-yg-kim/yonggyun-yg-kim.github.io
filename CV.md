@@ -4,7 +4,7 @@ layout: default
 
 # Curriculum Vitae
 
-##Education
+## Education
 
 <dl>
 <dt> Duke University </dt>
@@ -12,5 +12,5 @@ layout: default
 
 <dt> Seoul National University </dt>
 <dd> M.A. in Economics </dd>
-<dd> B.S. in Mathematical Science, _Summa Cum Laude_ </dd>
+<dd> B.S. in Mathematical Science, <it>Summa Cum Laud</it>_ </dd>
 </dl>
