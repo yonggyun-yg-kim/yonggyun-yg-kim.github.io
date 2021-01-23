@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Teaching
+<br>
 
 ## Course Instructor
 
@@ -19,12 +20,8 @@ layout: default
 
 * Social Research
 
-<p>
-
 * Environmental Economics
 
-
-<br>
 * Econometrics
 
 ## Teaching Assistant
