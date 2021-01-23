@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Teaching
-<br>
+<p  style="margin-top: 1em"> </p>
 
 ## Course Instructor
 
