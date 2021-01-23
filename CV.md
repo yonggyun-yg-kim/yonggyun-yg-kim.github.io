@@ -12,5 +12,5 @@ layout: default
 
 <dt> Seoul National University </dt>
 <dd> M.A. in Economics </dd>
-<dd> B.S. in Mathematical Science, <it>Summa Cum Laud</it>_ </dd>
+<dd> B.S. in Mathematical Science, <i>Summa Cum Laude </i> </dd>
 </dl>
