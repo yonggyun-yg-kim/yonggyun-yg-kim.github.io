@@ -3,18 +3,18 @@ layout: default
 ---
 
 # Teaching
-<p  style="margin-top: 1em"> </p>
+<p  style="margin-top: 2em"> </p>
 
 ## Course Instructor
 
 ### Duke University
 
-* **Intermediate Microeconomics I**
+* Intermediate Microeconomics I
 
 
 ### Korea Military Academy
 
-* **Principles of Economics**
+* Principles of Economics
 
 * Industrial Organization
 
@@ -24,16 +24,17 @@ layout: default
 
 * Econometrics
 
+<p  style="margin-top: 5em"> </p>
 ## Teaching Assistant
 
 ### Duke University
 
-* **Intermediate Microeconomics I**
+* Intermediate Microeconomics I
 
 
-### Korea Military Academy
+### Seoul National University
 
-* **Principles of Economics**
+* Principles of Economics
 * Industrial Organization
 * Social Research
 * Environmental Economics
