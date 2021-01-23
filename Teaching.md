@@ -13,17 +13,17 @@ layout: default
 
 
 ### Korea Military Academy
->Prior to joining the Ph.D. program, I worked as a Faculty Officer at Korea Military Academy
+>Prior to joining the Ph.D. program, I had worked as a Faculty Officer at Korea Military Academy from 2013 to 2016. I had taught various undergraduate courses.
 
-* Principles of Economics
+* **Principles of Economics** (2013 - 2015)
 
-* Industrial Organization
+* **Game Theory and Industrial Organization** (2013 - 2015)
 
-* Social Research
+* **Social Research** (2015-2016)
 
-* Environmental Economics
+* **Environmental Economics** (2015)
 
-* Econometrics
+* **Econometrics** (2014, 2016)
 
 
 
