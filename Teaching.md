@@ -13,7 +13,7 @@ layout: default
 
 
 ### Korea Military Academy
->Prior to joining the Ph.D. program, I had worked as a Faculty Officer at Korea Military Academy from 2013 to 2016. I had taught various undergraduate courses.
+>Prior to joining the Ph.D. program, I had worked as a Faculty Officer at Korea Military Academy from 2013 to 2016. I had taught various undergraduate courses there. It was such a joy and honor to teach future military officers.
 
 * **Principles of Economics** (2013 - 2015)
 
@@ -41,5 +41,3 @@ layout: default
 * Public Economics
 * Game Theory
 * Econometrics
-
-[back](./)
