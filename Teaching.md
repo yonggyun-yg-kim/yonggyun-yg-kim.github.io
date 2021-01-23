@@ -19,7 +19,8 @@ layout: default
 
 * Social Research
 
-<p style="margin-bottom:3cm;">
+<p>
+
 * Environmental Economics
 
 
