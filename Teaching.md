@@ -29,15 +29,17 @@ layout: default
 
 ### Duke University
 
-* Intermediate Microeconomics I
+* Microeconomic Analysis I, II (Ph.D. Core Courses)
 
 
 ### Seoul National University
 
-* Principles of Economics
-* Industrial Organization
-* Social Research
-* Environmental Economics
+* Advanced Microeconomic Theory
+
+* Public Economics
+
+* Game Theory
+
 * Econometrics
 
 [back](./)
