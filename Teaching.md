@@ -29,6 +29,7 @@ layout: default
 
 <p  style="margin-top: 5em"> </p>
 ## Teaching Assistant
+<p  style="margin-top: 1em"> </p>
 
 ### Duke University
 
