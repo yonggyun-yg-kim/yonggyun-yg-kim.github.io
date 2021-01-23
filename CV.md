@@ -8,7 +8,7 @@ layout: default
 
 <dl>
 <dt> Duke University </dt>
-<dd> Ph.D. in Economics </dd>
+<dd> Ph.D. Candidate in Economics </dd>
 
 <dt> Seoul National University </dt>
 <dd> M.A. in Economics </dd>
